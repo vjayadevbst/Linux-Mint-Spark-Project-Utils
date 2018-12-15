@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="217d2fa9-0b80-4647-8591-610e11621be7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala" afterDir="false" />
+    <list default="true" id="217d2fa9-0b80-4647-8591-610e11621be7" name="Default Changelist" comment="My First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="e#28#56#0" expanded="true" />
               </folding>
@@ -47,6 +48,7 @@
         <option value="$PROJECT_DIR$/scriptFile.scala" />
         <option value="$PROJECT_DIR$/Utils/src/main/scala/com/vinay/utils/DataReader.scala" />
         <option value="$PROJECT_DIR$/Project_1/project_1.sbt" />
+        <option value="$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala" />
       </list>
     </option>
   </component>
@@ -97,15 +99,6 @@
             <path>
               <item name="Linux mint Spark Common Util Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Linux mint Spark Common Util Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Project_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="project_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Linux mint Spark Common Util Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Linux mint Spark Common Util Project" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -137,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544857097405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544857103621" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -246,8 +239,14 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3089708874000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="28451944" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="162545940" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -268,7 +267,7 @@
     <frame x="0" y="0" width="1366" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -285,7 +284,7 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.32847896" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32901135" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32901135" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="SBT Execute" order="13" side_tool="true" />
@@ -300,6 +299,10 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My First Commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/scriptFile.scala" />
@@ -339,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="e#28#56#0" expanded="true" />
           </folding>
