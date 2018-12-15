@@ -7,7 +7,7 @@ import org.apache.spark.sql.types._
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.SparkSession
 
-//Linux mint 
+//Linux mint
 /**
   * Created by ADMIN on 27-08-18.
   */

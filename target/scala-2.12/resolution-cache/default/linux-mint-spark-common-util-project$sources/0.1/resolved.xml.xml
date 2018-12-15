@@ -4,7 +4,7 @@
 		module="linux-mint-spark-common-util-project$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181215121049"
+		publication="20181215191908"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
