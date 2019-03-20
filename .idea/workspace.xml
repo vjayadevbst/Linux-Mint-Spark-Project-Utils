@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="217d2fa9-0b80-4647-8591-610e11621be7" name="Default Changelist" comment="My First Commit">
+    <list default="true" id="217d2fa9-0b80-4647-8591-610e11621be7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$1925529a8a74e858ff1b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$1925529a8a74e858ff1b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$1925529a8a74e858ff1b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$b66fcd0671e615351fab$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$b66fcd0671e615351fab.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$b66fcd0671e615351fab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$e827baf618d3888a3236$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$e827baf618d3888a3236.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$e827baf618d3888a3236.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$f78aa5b61319eceaac3b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$f78aa5b61319eceaac3b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$f78aa5b61319eceaac3b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$ffa050a3c11faeedb23d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$ffa050a3c11faeedb23d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project/target/config-classes/$ffa050a3c11faeedb23d.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/classes/com/vinay/project_1/Logic_1$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/classes/com/vinay/project_1/Logic_1$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/classes/com/vinay/project_1/Logic_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/classes/com/vinay/project_1/Logic_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/project_1/project_1_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/project_1/project_1_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/project_1/project_1_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/project_1/project_1_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/scala-2.12/resolution-cache/reports/project_1-project_1_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/linux-mint-spark-common-util-project$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/linux-mint-spark-common-util-project$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/linux-mint-spark-common-util-project$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/linux-mint-spark-common-util-project$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-linux-mint-spark-common-util-project$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$156ca319a103284f3e04$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$156ca319a103284f3e04.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$156ca319a103284f3e04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$3a16ce808190f4e64913$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$3a16ce808190f4e64913.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$3a16ce808190f4e64913.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$84e3770d9f9ebca18cb1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$84e3770d9f9ebca18cb1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$84e3770d9f9ebca18cb1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$d47411a4f89e47ef5fc0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$d47411a4f89e47ef5fc0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/project/target/config-classes/$d47411a4f89e47ef5fc0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/SparkConfig.scala" beforeDir="false" afterPath="$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/SparkConfig.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/DataWriter$.class" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/DataWriter$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/DataWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/DataWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/ResourceBuilder$.class" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/ResourceBuilder$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/ResourceBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/ResourceBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/SparkConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/scala-2.12/classes/com/vinay/utils/SparkConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/utils/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +97,56 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="167">
+              <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
               <folding>
                 <element signature="e#28#56#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/SparkConfig.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/ResourceBuilder.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-73">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/LoProvider.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/DataWriter.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/DataReader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -48,6 +165,7 @@
         <option value="$PROJECT_DIR$/scriptFile.scala" />
         <option value="$PROJECT_DIR$/Utils/src/main/scala/com/vinay/utils/DataReader.scala" />
         <option value="$PROJECT_DIR$/Project_1/project_1.sbt" />
+        <option value="$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/SparkConfig.scala" />
         <option value="$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala" />
       </list>
     </option>
@@ -62,7 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,6 +217,12 @@
             <path>
               <item name="Linux mint Spark Common Util Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Linux mint Spark Common Util Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Project_1" type="462c0819:PsiDirectoryNode" />
+              <item name="tsw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linux mint Spark Common Util Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linux mint Spark Common Util Project" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -122,11 +246,41 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Linux mint Spark Common Util Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linux mint Spark Common Util Project" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linux mint Spark Common Util Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linux mint Spark Common Util Project" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vinay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linux mint Spark Common Util Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linux mint Spark Common Util Project" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="vinay" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,14 +393,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3089708874000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="28451944" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="162545940" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -261,13 +409,42 @@
       <option name="presentableId" value="Default" />
       <updated>1544854193573</updated>
     </task>
+    <task id="LOCAL-00001" summary="My First Commit--LinuxMint">
+      <created>1544881757040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544881757040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My First Commit--LinuxMint">
+      <created>1544881859629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544881859629</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SparkSession--LinuxMint">
+      <created>1553044958768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553044958768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SparkSession--LinuxMint">
+      <created>1553045443102</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553045443102</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26287878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -284,7 +461,7 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.32847896" />
       <window_info anchor="bottom" id="SBT Console" order="8" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32901135" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3273906" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="SBT Execute" order="13" side_tool="true" />
@@ -302,7 +479,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My First Commit" />
+    <MESSAGE value="My First Commit--LinuxMint" />
+    <MESSAGE value="SparkSession--LinuxMint" />
+    <option name="LAST_COMMIT_MESSAGE" value="SparkSession--LinuxMint" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/scriptFile.scala" />
@@ -326,13 +505,6 @@
     <entry file="file://$PROJECT_DIR$/utils/utils.sbt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/DataReader.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project_1/project_1.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -340,10 +512,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/LoProvider.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/DataWriter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/DataReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/ResourceBuilder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/scala/com/vinay/utils/SparkConfig.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Project_1/src/main/scala/com/vinay/project_1/Logic_1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="167">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
           <folding>
             <element signature="e#28#56#0" expanded="true" />
           </folding>

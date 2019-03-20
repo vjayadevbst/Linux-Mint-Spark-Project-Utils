@@ -34,7 +34,7 @@ object Logic_1 extends LoProvider with SparkConfig{
 
   def getData(inputPath:String):DataFrame = {
     try{
-      val input = Spark.table("tablename")
+      val input = sparkSession.table("tablename")
       input
     }
     catch {
@@ -43,6 +43,7 @@ object Logic_1 extends LoProvider with SparkConfig{
       if(errorCode==1) log.info("Reding failed")
       else
         log.info("Reading complete")
+      //commit
     }
   }
 
