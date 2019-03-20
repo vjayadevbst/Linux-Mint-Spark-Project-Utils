@@ -20,5 +20,7 @@ trait SparkConfig {
     config("spark.rdd.compress","true").
     config("spark.storage.memoryFraction","1").
     config("saprk.shuffle.consolidateFiles","true").
-    config("spark")
+    config("spark.serializer","org.apache.spark.serializer.kryoSerializer").
+    config("spark.sql.crossJoin.enabled","true").
+    enableHiveSupport().getOrCreate()
 }
